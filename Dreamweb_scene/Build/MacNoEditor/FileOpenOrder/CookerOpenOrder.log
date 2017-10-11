@@ -400,6 +400,8 @@
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 399
 "../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 400
 "../../../Engine/Content/Maps/Templates/Template_Default.umap" 401
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 402
-"../../../Engine/Content/BasicShapes/Cube.uasset" 403
-"../../../Dreamweb_scene/Content/NewMap.umap" 404
+"../../../Dreamweb_scene/Content/Sound/AmbientSound_Blueprint.uasset" 402
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 403
+"../../../Engine/Content/BasicShapes/Cube.uasset" 404
+"../../../Dreamweb_scene/Content/Sound/orb_open.uasset" 405
+"../../../Dreamweb_scene/Content/NewMap.umap" 406

@@ -1517,5 +1517,7 @@
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1516
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1517
 "../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1518
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1519
-"../../../Dreamweb_scene/Content/NewMap.umap" 1520
+"../../../Dreamweb_scene/Content/Sound/AmbientSound_Blueprint.uasset" 1519
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1520
+"../../../Dreamweb_scene/Content/Sound/orb_open.uasset" 1521
+"../../../Dreamweb_scene/Content/NewMap.umap" 1522
